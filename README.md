@@ -1,2 +1,2 @@
 # PythonCourses
-Exercises and project built with Python
+Exercises and projects built with Python
